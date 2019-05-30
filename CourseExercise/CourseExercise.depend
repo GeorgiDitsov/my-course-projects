@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526385137 source:d:\programms\dev-cpp projects\courseexercise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1527236898 source:d:\university\КСИ 2 Семестър\ПИК 2\Курсова\courseexercise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
